@@ -1,0 +1,1 @@
+import{h as s}from"./vendor.64c73bd9.js";const n=s({id:"consultations",state:()=>({consultations:[]}),persist:!0,getters:{getConsultations:t=>t.consultations},actions:{setConsultation:()=>{}}});export{n as u};
